@@ -1,0 +1,21 @@
+c:\users\desktop\documents\visual studio 2015\Projects\Messages\obj\Debug\Messages.Form1.resources
+c:\users\desktop\documents\visual studio 2015\Projects\Messages\obj\Debug\Messages.Resources.resources
+c:\users\desktop\documents\visual studio 2015\Projects\Messages\obj\Debug\Messages.vbproj.GenerateResource.Cache
+c:\users\desktop\documents\visual studio 2015\Projects\Messages\bin\Debug\Messages.exe.config
+c:\users\desktop\documents\visual studio 2015\Projects\Messages\bin\Debug\Messages.exe
+c:\users\desktop\documents\visual studio 2015\Projects\Messages\bin\Debug\Messages.pdb
+c:\users\desktop\documents\visual studio 2015\Projects\Messages\bin\Debug\Messages.xml
+c:\users\desktop\documents\visual studio 2015\Projects\Messages\bin\Debug\MySql.Data.dll
+c:\users\desktop\documents\visual studio 2015\Projects\Messages\bin\Debug\Google.Protobuf.dll
+c:\users\desktop\documents\visual studio 2015\Projects\Messages\bin\Debug\BouncyCastle.Crypto.dll
+c:\users\desktop\documents\visual studio 2015\Projects\Messages\bin\Debug\Ubiety.Dns.Core.dll
+c:\users\desktop\documents\visual studio 2015\Projects\Messages\bin\Debug\Renci.SshNet.dll
+c:\users\desktop\documents\visual studio 2015\Projects\Messages\bin\Debug\MySql.Data.xml
+c:\users\desktop\documents\visual studio 2015\Projects\Messages\obj\Debug\Messages.vbprojResolveAssemblyReference.cache
+c:\users\desktop\documents\visual studio 2015\Projects\Messages\obj\Debug\Messages.exe
+c:\users\desktop\documents\visual studio 2015\Projects\Messages\obj\Debug\Messages.xml
+c:\users\desktop\documents\visual studio 2015\Projects\Messages\obj\Debug\Messages.pdb
+C:\Users\DESKTOP\Source\Repos\iamjohnpalencia\messagemodule\bin\Debug\Messages.exe.config
+C:\Users\DESKTOP\Source\Repos\iamjohnpalencia\messagemodule\obj\Debug\Messages.exe
+C:\Users\DESKTOP\Source\Repos\iamjohnpalencia\messagemodule\obj\Debug\Messages.xml
+C:\Users\DESKTOP\Source\Repos\iamjohnpalencia\messagemodule\obj\Debug\Messages.pdb
